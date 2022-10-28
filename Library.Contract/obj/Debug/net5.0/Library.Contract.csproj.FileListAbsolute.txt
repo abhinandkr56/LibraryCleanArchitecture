@@ -1,0 +1,12 @@
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Contract\bin\Debug\net5.0\Library.Contract.deps.json
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Contract\bin\Debug\net5.0\Library.Contract.dll
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Contract\bin\Debug\net5.0\ref\Library.Contract.dll
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Contract\bin\Debug\net5.0\Library.Contract.pdb
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Contract\obj\Debug\net5.0\Library.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Contract\obj\Debug\net5.0\Library.Contract.AssemblyInfoInputs.cache
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Contract\obj\Debug\net5.0\Library.Contract.AssemblyInfo.cs
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Contract\obj\Debug\net5.0\Library.Contract.csproj.CoreCompileInputs.cache
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Contract\obj\Debug\net5.0\Library.Contract.dll
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Contract\obj\Debug\net5.0\ref\Library.Contract.dll
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Contract\obj\Debug\net5.0\Library.Contract.pdb
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Contract\obj\Debug\net5.0\Library.Contract.csproj.AssemblyReference.cache

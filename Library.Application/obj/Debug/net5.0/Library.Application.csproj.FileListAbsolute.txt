@@ -1,0 +1,17 @@
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\bin\Debug\net5.0\Library.Application.deps.json
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\bin\Debug\net5.0\Library.Application.dll
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\bin\Debug\net5.0\ref\Library.Application.dll
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\bin\Debug\net5.0\Library.Application.pdb
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\bin\Debug\net5.0\Library.Domain.dll
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\bin\Debug\net5.0\Library.Domain.pdb
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\obj\Debug\net5.0\Library.Application.csproj.AssemblyReference.cache
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\obj\Debug\net5.0\Library.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\obj\Debug\net5.0\Library.Application.AssemblyInfoInputs.cache
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\obj\Debug\net5.0\Library.Application.AssemblyInfo.cs
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\obj\Debug\net5.0\Library.Application.csproj.CoreCompileInputs.cache
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\obj\Debug\net5.0\Library.Application.csproj.CopyComplete
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\obj\Debug\net5.0\Library.Application.dll
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\obj\Debug\net5.0\ref\Library.Application.dll
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\obj\Debug\net5.0\Library.Application.pdb
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\bin\Debug\net5.0\Library.Contract.dll
+C:\Users\abhinandhu.kr\source\repos\Library.API\Library.Application\bin\Debug\net5.0\Library.Contract.pdb
